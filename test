@@ -1,9 +1,46 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>CSCE 190: [your name]</title>
+    <title>CSCE 190: Ashwin Sakthivel</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<h1>[your name]</h1>
+    <h1>Ashwin Sakthivel</h1>
+
+    <h2>About me</h2>
+    <div class="about">
+        <!-- Add content here -->
+    </div>
+
+    <h2>Skills</h2>
+    <div class="skills">
+        <!-- Add content here -->
+    </div>
+
+    <h2>Highlighted projects</h2>
+    <div class="projects">
+        <!-- Problem Statement Assignment -->
+        <section class="project">
+            <a href="files/statement.pdf">
+                <h3>Problem Statement</h3>
+                <img src="images/problem.png" alt="Problem Statement">
+            </a>
+            <p>Workout Program Monitor</p>
+        </section>
+
+        <!-- Affinity Diagram Assignment -->
+        <section class="project">
+            <a href="files/Affinity_DOC.pdf">
+                <h3>Affinity Diagram</h3>
+                <img src="images/Affinity_IMG.png" alt="Affinity Diagram">
+            </a>
+            <p>Affinity Diagram for Workout Program Monitor</p>
+        </section>
+    </div>
+
+    <h2>Contact me</h2>
+    <div class="contact">
+        <!-- Add contact info here -->
+    </div>
 </body>
 </html>
